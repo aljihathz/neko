@@ -1,0 +1,19 @@
+.t1 td{
+    
+    padding: 2px 5px;
+
+}
+.card {
+    background-color: #343239;
+    color: aliceblue;
+}
+#select{
+    padding: 5px;
+}
+.row{
+    margin: 20px 10px ;
+}
+.pel{
+    margin-top: 13px;
+    border-radius: 3px;
+}
