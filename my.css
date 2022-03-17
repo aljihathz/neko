@@ -17,3 +17,13 @@
     margin-top: 13px;
     border-radius: 3px;
 }
+th{border: whitesmoke 2px solid;
+    border-color: aliceblue;
+    padding: 5px 10px;
+
+}
+.t2 tr td {
+    border: whitesmoke 2px solid;
+    border-color: aliceblue;
+    padding: 5px 10px;
+}
