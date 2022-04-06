@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://raw.githubusercontent.com/aljihathz/neko/main/tembok%20rp.jfif) ;
+ color: aliceblue;
+
+}
+.kotak{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px 70px;
+
+    box-shadow: 0 0 10px rgba(255,255,255,.3);
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgba(0,0,0, 0.4);
+
+}
+input{
+    width: fit-content;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;}
+
+
+input:hover{
+    background-color: transparent;
+color: aliceblue;
+}
+.btn{
+    padding: 8px;
+}
+.btn:hover{
+    background-color: aquamarine;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+    
+
